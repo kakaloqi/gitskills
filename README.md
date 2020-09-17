@@ -1,3 +1,3 @@
 # gitskills
-Switch to a new branch featrel.
+Creating a new branch is quick && simple.
 
